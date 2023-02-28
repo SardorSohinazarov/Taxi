@@ -1,0 +1,29 @@
+[
+  {
+    "PhoneNumber": "21",
+    "Number": "234",
+    "Status": "2345",
+    "Passanger": null,
+    "stripNumber": 0
+  },
+  {
+    "PhoneNumber": "21",
+    "Number": "234",
+    "Status": "2345",
+    "Passanger": {
+      "Id": "ad29776b-14b1-48dd-bef7-3b9c5aa83534",
+      "PhoneNumber": "+998912040618"
+    },
+    "stripNumber": 0
+  },
+  {
+    "PhoneNumber": "912040618",
+    "Number": "40A335AA",
+    "Status": "Malibu",
+    "Passanger": {
+      "Id": "9c34ec4a-422f-4b45-bf50-bb78ad827209",
+      "PhoneNumber": "tel"
+    },
+    "stripNumber": 0
+  }
+]
